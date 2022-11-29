@@ -55,7 +55,7 @@
 					<a class="nav-link" href="#" data-toggle="modal" data-target="#modal-controls" data-i18n="controls">Controls</a>
 				</li>
                 <li class="nav-item">
-					<a class="nav-link" href="https://github.com/thiagodnf/wumpus-world-simulator" data-i18n="source-code" target="_blank">Source Code</a>
+					<a class="nav-link" href="https://github.com/helaynepaolla/wumpus-world-simulator" data-i18n="source-code" target="_blank">Source Code</a>
 				</li>
 			</ul>
 			<form class="form-inline">
