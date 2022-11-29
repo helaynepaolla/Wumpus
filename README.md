@@ -16,7 +16,7 @@ Hunt the Wumpus is an early computer game, based on a simple hide and seek forma
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Hunt_the_Wumpus)
 
 ## How to play
-Access the simulator [here](http://thiagodnf.github.io/wumpus-world-simulator/).
+Access the simulator [here](https://helaynepaolla.github.io/Wumpus/).
 
 ## Screenshot
 
